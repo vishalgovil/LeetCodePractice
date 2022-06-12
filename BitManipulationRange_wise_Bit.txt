@@ -1,0 +1,27 @@
+//https://leetcode.com/problems/bitwise-and-of-numbers-range/submissions/
+
+class Solution {
+public:
+    int rangeBitwiseAnd(int left, int right) {
+        
+        // This'll not work as time limit exceeded
+        // int ans=left;
+        // for(int i=left;i<right;i++)
+        // {
+        //     ans=ans& i+1;
+        // }
+        // return ans;
+        
+        // More optimal solution
+        int count=0;
+        while(left!=right)
+        {
+            left=left>>1;
+            right=right>>1;
+            count++;
+            
+        }
+        return (left<<count);
+    
+    }
+};
