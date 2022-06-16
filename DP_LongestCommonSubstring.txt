@@ -1,0 +1,176 @@
+
+
+    268
+
+    person My Profile
+    exit_to_app Logout
+    book My Courses
+    restore My Transactions
+    Problems
+    Courses
+    Get Hired
+    Events
+    POTD
+
+Back To Explore Page
+
+    Check for BST
+    Subarray with given sum
+    Minimum number of jumps
+    Kadane's Algorithm
+    Remove loop in Linked List
+    Left View of Binary Tree
+    Detect Loop in linked list
+    Minimize the Heights II
+    Missing number in array
+    Find duplicates in an array
+    Kth smallest element
+    Sort an array of 0s, 1s and 2s
+    Nth node from end of linked list
+    Majority Element
+    Finding middle element in a linked list
+    Reverse a linked list
+    Detect cycle in a directed graph
+    Check if Linked List is Palindrome
+    Peak element
+    Detect cycle in an undirected graph
+    Get minimum element from stack
+    Count Inversions
+    Intersection Point in Y Shapped Linked Lists
+    Diameter of a Binary Tree
+    BFS of graph
+    Boundary Traversal of binary tree
+    Equilibrium Point
+    Parenthesis Checker
+    Height of Binary Tree
+    Trapping Rain Water
+    Find Transition Point
+    Rotate a Linked List
+    Check for Balanced Tree
+    Binary Search
+    Remove duplicate element from sorted Linked List
+    Find triplets with zero sum
+    Count pairs with given sum
+    Maximum Product Subarray
+    Add two numbers represented by linked lists
+    Leaders in an array
+    Union of two arrays
+    Determine if Two Trees are Identical
+    Top View of Binary Tree
+    Delete without head pointer
+    Merge Without Extra Space
+    Maximum Path Sum between 2 Leaf Nodes
+    0 - 1 Knapsack Problem
+    Rotate Array
+    Validate an IP Address
+    Common elements
+    Longest consecutive subsequence
+    Reverse a Linked List in groups of given size.
+    Level order traversal in spiral form
+    Minimum Platforms
+    Sum Tree
+    Find Missing And Repeating
+    Smallest Positive missing number
+    Mirror Tree
+    Vertical Traversal of Binary Tree
+    Rat in a Maze Problem - I
+    The Celebrity Problem
+    Bottom View of Binary Tree
+    Level order traversal
+    Reverse a String
+    DFS of Graph
+    Triplet Sum in Array
+    Largest subarray with 0 sum
+    Print all nodes that don't have sibling
+    Remove duplicates from an unsorted linked list
+    Subarray with 0 sum
+    Find the number of islands
+    Cyclically rotate an array by one
+    Linked List Insertion
+    Add 1 to a number represented as linked list
+    Largest Element in Array
+    Square root of a number
+    Lowest Common Ancestor in a Binary Tree
+    Multiply two strings
+    Implement Atoi
+    Merge Without Extra Space
+    Wave Array
+    Minimum distance between two numbers
+    LRU Cache
+    Next Greater Element
+    Partition Equal Subset Sum
+    Circular tour
+    Count nodes of linked list
+    Remove duplicate elements from sorted Array
+    Merge two sorted linked lists
+    Check if subtree
+    Row with max 1s
+    Inorder Traversal
+    Reverse words in a given string
+    Implement strstr
+    Spirally traversing a matrix
+    Palindrome String
+    Minimum Swaps to Sort
+    Queue using two Stacks
+    Binary Tree to DLL
+    Topological sort
+
+    Problem
+    Editorial
+    Submissions
+    Doubt Support
+
+Longest Common Substring
+Medium Accuracy: 52.09% Submissions: 54005 Points: 4
+Lamp
+This problem is part of GFG SDE Sheet. Click here to view more.  
+
+Given two strings. The task is to find the length of the longest common substring.
+
+
+Example 1:
+
+Input: S1 = "ABCDGH", S2 = "ACDGHR"
+Output: 4
+Explanation: The longest common substring
+is "CDGH" which has length 4.
+
+Example 2:
+
+Input: S1 = "ABC", S2 "ACB"
+Output: 1
+Explanation: The longest common substrings
+are "A", "B", "C" all having length 1.
+
+
+Your Task:
+You don't need to read input or print anything. Your task is to complete the function longestCommonSubstr() which takes the string S1, string S2 and their length n and m as inputs and returns the length of the longest common substring in S1 and S2.
+
+
+Expected Time Complexity: O(n*m).
+Expected Auxiliary Space: O(n*m).
+
+
+Constraints:
+1<=n, m<=1000
+
+View Bookmarked Problems
+Company Tags
+Topic Tags
+Related Courses
+
+If you are facing any issue on this page. Please let us know.
+
+Output Window
+Problem Solved Successfully
+ Test Cases Passed:
+119 / 119
+Total Points Scored:
+4/4
+Total Time Taken:
+0.03/1.02
+Your Accuracy:
+100%
+Attempts No.:
+1
+Test against custom input
